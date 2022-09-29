@@ -102,7 +102,7 @@ menu_sts
 chck_sshwb
 echo -e "
 [\033[0;32m01\033[0m] • Create SSH & OpenVPN Account
-[\033[0;32m02\033[0m] • Extend SSH & OpenVPN Account Active Life
+[\033[0;32m02\033[0m] • Renew SSH & OpenVPN Account 
 [\033[0;32m03\033[0m] • Delete SSH & OpenVPN Account
 [\033[0;32m04\033[0m] • Check User Login SSH & OpenVPN
 [\033[0;32m05\033[0m] • List of Member SSH & OpenVPN
