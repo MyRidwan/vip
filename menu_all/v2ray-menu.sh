@@ -147,7 +147,7 @@ case "$x" in
    ;;
    4 | 04)
    clear
-   cek-ws
+   cekws
    break
    ;;
    5 | 05)
